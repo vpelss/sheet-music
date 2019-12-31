@@ -5,7 +5,7 @@
 
 \score {
   \relative c' {
-    e g4
+    e g e g c
   }
 
 
