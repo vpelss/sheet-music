@@ -1,6 +1,6 @@
 \header {
-  title = "Untitled"
-  composer = "Composer"
+  title = "One last look around the house before we go"
+  composer = "Kate Bush"
 }
 
 \score {
