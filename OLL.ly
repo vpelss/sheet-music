@@ -4,8 +4,8 @@
 }
 
 \score {
-  \relative c' {
-    e4. g4 e8 g c4 b8 b8 a a
+  \relative c'' {
+    e4. g4. e8 g c4. b8 b8 a8 a4 r a4. f'4
   }
 
 
