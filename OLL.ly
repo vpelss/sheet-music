@@ -13,7 +13,7 @@
     } 
 
   \new Staff \relative c { \clef "bass"
-   d8 d8
+   r1 r1  
     }
   >>
   }
