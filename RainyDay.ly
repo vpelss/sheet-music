@@ -12,6 +12,7 @@
      % c d e f c' d e f
      a8 c e <a, c e>4
      g8 b d <g, b d>4
+     f8 a c <f, a c>4
 
      % \bar "||"
   }
