@@ -6,6 +6,7 @@
 }
 
 \score {
+\new PianoStaff
       {
       \time 6/8
       \autoChange
