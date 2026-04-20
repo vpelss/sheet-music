@@ -20,8 +20,16 @@
         g' f' c' e' |
         <c' e' g'> <c' e' g'> <c' e' g'> <a c' e'> 
         c' g' e' c'
+  
+        e' c' a <f a c'>
+        <e' c' a> c' a f
+        <a f c> <c' e' g'> <a c' e'> <c' a f>
+        c' e' g' c'
+        g' e' c' e'
+        a f c' a
+        f <d f a> <f a> d
+        c f a c'
 
-  e' c' a <f a c'>
         }
 
       }
