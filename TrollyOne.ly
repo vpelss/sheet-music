@@ -6,7 +6,8 @@
 }
 
 \score {
-%\new Staff
+
+  \new Staff
       {
       \time 4/4
       \autoChange
@@ -19,10 +20,13 @@
         g' f' c' e' |
         <c' e' g'> <c' e' g'> <c' e' g'> <a c' e'> 
         c' g' e' c'
-        
 
+  e' c' a <f a c'>
         }
+
       }
+
+    
 
   \layout {}
   \midi {}
