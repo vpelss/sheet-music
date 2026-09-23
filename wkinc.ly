@@ -16,9 +16,10 @@ global = {
   % Bar 1
   g' e'8 e'8
   f'4 d'8 d'8 
+  c'8 d'8 e'8 f'8 
 
-  f'8 g'8 a'8 bes'8 
-  c''2
+  g'2
+
   \stemUp c''8 a'8 a'8 a'8
   bes'8 g'8 g'8 g'8
   <c' f'>4 <d' f'>8 des'8
@@ -28,9 +29,10 @@ global = {
   % Bar 2
  <e c>4 g4
  g4 f4 
+ <e c> g4
 
- <a f> c'4
- a4 c'4
+ e4 g4
+
  <a f>4 c'4
  <c' e>4 bes4
  <a f>4 <bes f>4
