@@ -40,7 +40,9 @@ global = {
   fis4
   cis4
   fis4
-
+  b4
+  cis'4
+  d'4
 
 |
 
