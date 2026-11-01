@@ -14,7 +14,16 @@ global = {
 
 \parallelMusic voiceA,voiceB {
   % Bar 1
-  c'' a'8 a'8 
+  r8
+  <a cis' e'>8
+  r8
+  <a d' fis'>8
+  r8
+  <a cis' e'>8
+  r8
+  <gis b e'>
+
+  c'' a'8 a'4
   bes'4 g'8 g'8 
   f'8 g'8 a'8 bes'8 
   c''2
@@ -25,6 +34,13 @@ global = {
   |
 
   % Bar 2
+  fis4
+  b4
+  fis4
+  cis4
+
+  
+
  <a f>4 c'4
  c'4 bes4 
  <a f> c'4
